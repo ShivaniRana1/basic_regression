@@ -1,0 +1,9 @@
+pandas==1.4.2
+pandas-stubs==1.2.0.58
+matplotlib @ file:///opt/concourse/worker/volumes/live/f7797860-f8aa-410c-4a56-72315954816b/volume/matplotlib-base_1603378002957/work
+numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/111833a2-339b-4578-413b-7337bb8fe64a/volume/scikit-learn_1598376920601/work
+sklearn==0.0
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
