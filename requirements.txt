@@ -7,3 +7,10 @@ scikit-learn @ file:///opt/concourse/worker/volumes/live/111833a2-339b-4578-413b
 sklearn==0.0
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
+django-cors-headers==3.10.0
+django-crispy-forms==1.12.0
+django-responsive-images==1.2.0
+djangorestframework==3.12.4
+djangorestframework-simplejwt==5.0.0
+optional-django==0.3.0
+
