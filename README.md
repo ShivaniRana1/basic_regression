@@ -4,9 +4,9 @@
 cd Task1.test
 
 2) Then run the code there
-3) To visulaize answer in webpage you have to get back to task1_grip directory
+3) To visulaize answer in webpage you have to get back to task1_grip directory:
   cd ..
-  and then do to task1 directory run following in terminal
+  and then do to task1 directory run following in terminal:
   cd task1
 4) After that simply run 
   python manage.py runserver
