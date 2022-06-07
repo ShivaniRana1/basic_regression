@@ -1,4 +1,7 @@
 # task1_grip
+To run the main jupyter file go to task1 and run the code
+
+And to view the UI please go through following steps
 
 1) First of all go to Task1.test
 cd Task1.test
