@@ -1,4 +1,7 @@
 # task1_grip
+First of all install requirements.txt file . Run code in terminal as
+Run pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
+
 To run the main jupyter file go to task1 and run the code
 
 And to view the UI please go through following steps
